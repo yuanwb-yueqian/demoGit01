@@ -3,5 +3,6 @@ public class b{
 			System.out.println("Hello");	
 			System.out.println("new text");
 			int x = 10;
+			int b = 10;
 		}
 }
